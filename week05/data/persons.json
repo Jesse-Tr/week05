@@ -1,0 +1,24 @@
+[
+  
+  {
+    "name": "Joseph doe",
+    "phone": "707-123-4567",
+    "email": "joed@gmail.com",
+    "id": 1
+
+  },
+  {
+    "name": "Jane doe",
+    "phone": "707-777-1111",
+    "email": "jand@gmail.com",
+    "id": 2
+
+  },
+  {
+    "name": "Robert Buck",
+    "phone": "707-100-0101",
+    "email": "bobB@gmail.com",
+    "id": 3
+
+  }
+]
